@@ -37,10 +37,6 @@ error_reporting(0);
 ?>
    </table>
   </div>
-	<div style="text-align:center">
-	<img src="http://hitwebcounter.com/counter/counter.php?page=5778435&style=0003&nbdigits=4&type=ip&initCount=100" title="" Alt=""   border="0" >
-	</div>
-
  </div>
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
   <script src="js/upload.js"></script>
