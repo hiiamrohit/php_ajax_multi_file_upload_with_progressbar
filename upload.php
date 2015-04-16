@@ -1,7 +1,8 @@
 
 <?php
 /*
-* Author: Rohit Patel
+* Author: Rohit Kumar
+* Website: iamrohit.in
 * Date: 12-08-2014
 * App Name: Ajax file uploader
 * Description: PHP + Ajax file uploader with progress bar
