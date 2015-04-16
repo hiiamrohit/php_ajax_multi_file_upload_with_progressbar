@@ -6,5 +6,5 @@ File upload with progress bar
 * Technology used: ``` PHP, Jquery, Ajax ```
 
 For demo follow this link
-http://phpajax.url.ph/example2/ 
+http://lab.iamrohit.in/php_ajax_multi_file_upload_with_progressbar/
 
