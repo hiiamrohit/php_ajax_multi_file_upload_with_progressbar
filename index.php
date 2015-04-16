@@ -9,7 +9,7 @@ error_reporting(0);
 <meta name="Description" content="Multi Image upload in php and ajax with progress bar">
 <body>
 <div style="width:60%; margin:0 auto;">
-<h3>Multi Image upload in php+ajax with progress bar! <a href="https://github.com/rohit0kumar/php_ajax_multi_file_upload_with_progressbar" target="_blank">Download</a></h3>
+<h3>Multi Image upload in php+ajax with progress bar! <a href="https://github.com/hiiamrohit/php_ajax_multi_file_upload_with_progressbar" target="_blank">Download</a></h3>
 <div style="border:1px solid; padding:10px 10px 10px 10px; float:left; width:800px;">
 <form enctype="multipart/form-data" id="myform" name="myform">  
    <b>Choose multiple image to upload.</b><br/>
