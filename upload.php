@@ -7,7 +7,7 @@
 * App Name: Ajax file uploader
 * Description: PHP + Ajax file uploader with progress bar
 */
-
+error_reporting(0);
 if(($_POST['del'] == 1) && (isset($_POST['del']))) {
   if (file_exists($_POST['filePath'])) {
    unlink($_POST['filePath']);
